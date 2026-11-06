@@ -1,6 +1,6 @@
 # FineGrainedAlignment
 
-Training and testing code for **UltraCLIP**, a fine-grained vision-language model for ultrasound, MRI and CT images.
+Training and testing code for **Fine Grained Alignment**, a fine-grained vision-language model for ultrasound, MRI and CT images.
 
 ## Installation
 
